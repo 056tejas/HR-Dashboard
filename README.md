@@ -33,18 +33,6 @@ As an **HR Manager**, I want a dashboard that provides:
 
 ---
 
-## 📸 Dashboard Screenshots
-
-### Overview Page
-![HR Dashboard Overview](HR%20Summary.png)
-
-### Employee Details Page
-<p align="center">
-  <img src="HR Details.png" width="300" alt="HR Details" />
-</p>
-
----
-
 ## 📂 Dataset & Assets
 
 - **Data**: Synthetic HR data generated using Python’s Faker library and ChatGPT prompts.  
