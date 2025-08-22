@@ -51,7 +51,7 @@ As an **HR Manager**, I want a dashboard that provides:
 4. Explore the tabs: Overview → Demographics → Income.
 
 ## Acknowledgments
-- Inspired by Data with Baraa’s HR Dashboard tutorial :contentReference[oaicite:6]{index=6}
+- Inspired by Data with Baraa’s HR Dashboard tutorial :"https://youtu.be/UcGF09Awm4Y"
 - Icons from Flaticon, edited with Photopea.
 
 ## License
