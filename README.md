@@ -39,7 +39,9 @@ As an **HR Manager**, I want a dashboard that provides:
 ![HR Dashboard Overview](HR%20Summary.png)
 
 ### Employee Details Page
-![HR Dashboard Details]([HR%20Details.png](https://github.com/056tejas/HR-Dashboard/blob/main/HR%20%20Details.png))
+<p align="center">
+  <img src="HR Details.png" width="300" alt="HR Details" />
+</p>
 
 ---
 
